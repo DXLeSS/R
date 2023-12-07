@@ -5,7 +5,6 @@ library(leaflet)
 library(data.table)
 library(grDevices)
 library(png)
-library(rsconnect)
 
 # UI
 ui <- fluidPage(
